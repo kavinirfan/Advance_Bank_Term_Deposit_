@@ -48,24 +48,19 @@ The dataset contains **41,188 records** and **21 columns** from a Portuguese ban
 ![Age Distribution]https://github.com/kavinirfan/Advance_Bank_Term_Deposit_/blob/main/age_dist.png
 
 ### Job Distribution
-![Job Distribution](screenshots/job_dist.png)
-
+![Job Distribution]https://github.com/kavinirfan/Advance_Bank_Term_Deposit_/blob/main/job_dist.png
 ### Call Duration by Subscription
-![Duration by Subscription](screenshots/duration_by_y.png)
+![Duration by Subscription]
 
 ### Subscription Rate by Contact Method
-![Contact Method](screenshots/contact_method.png)
-
+![Contact Method]
 ### Correlation Matrix
-![Correlation Matrix](screenshots/corr_matrix.png)
+![Correlation Matrix]
 
 ### Model Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
-
+![Confusion Matrix]
 ### Feature Importance
-![Feature Importance](screenshots/feature_importance.png)
-
-## 🛠️ Tools Used
+![Feature Importance]]
 
 - Python
 - Pandas
