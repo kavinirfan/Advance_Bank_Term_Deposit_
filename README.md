@@ -57,7 +57,7 @@ The dataset contains **41,188 records** and **21 columns** from a Portuguese ban
 ![Contact Method]https://github.com/kavinirfan/Advance_Bank_Term_Deposit_/blob/main/contact_method.png
 
 ### Correlation Matrix
-![Correlation Matrix]
+![Correlation Matrix]https://github.com/kavinirfan/Advance_Bank_Term_Deposit_/blob/main/corr_matrix.png
 
 ### Model Confusion Matrix
 ![Confusion Matrix]
