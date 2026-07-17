@@ -45,7 +45,7 @@ The dataset contains **41,188 records** and **21 columns** from a Portuguese ban
 - The strongest predictors of subscription were `euribor3m`, `emp.var.rate`, `nr.employed`, and `duration`.
 
 ### Age Distribution
-![Age Distribution](screenshots/age_dist.png)
+![Age Distribution]https://github.com/kavinirfan/Advance_Bank_Term_Deposit_/blob/main/age_dist.png
 
 ### Job Distribution
 ![Job Distribution](screenshots/job_dist.png)
