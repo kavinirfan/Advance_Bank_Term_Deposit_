@@ -63,7 +63,7 @@ The dataset contains **41,188 records** and **21 columns** from a Portuguese ban
 ![Confusion Matrix]https://github.com/kavinirfan/Advance_Bank_Term_Deposit_/blob/main/confusion_matrix.png
 
 ### Feature Importance
-![Feature Importance]]
+![Feature Importance]]https://github.com/kavinirfan/Advance_Bank_Term_Deposit_/blob/main/feature_importance.png
 
 - Python
 - Pandas
